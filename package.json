@@ -1,7 +1,7 @@
 {
   "name": "portfolio-projeto",
   "version": "0.1.0",
-  "homepage": "https://rangelandrade15.github.io/meu-portfolio/",
+  "homepage": "github/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
