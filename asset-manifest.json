@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.299bbfb1.chunk.css",
-    "main.js": "./static/js/main.bdf925ac.chunk.js",
-    "main.js.map": "./static/js/main.bdf925ac.chunk.js.map",
+    "main.js": "./static/js/main.dbdc46fa.chunk.js",
+    "main.js.map": "./static/js/main.dbdc46fa.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d2fc372d.js",
     "runtime-main.js.map": "./static/js/runtime-main.d2fc372d.js.map",
     "static/css/2.383c0125.chunk.css": "./static/css/2.383c0125.chunk.css",
@@ -14,6 +14,7 @@
     "static/css/2.383c0125.chunk.css.map": "./static/css/2.383c0125.chunk.css.map",
     "static/css/main.299bbfb1.chunk.css.map": "./static/css/main.299bbfb1.chunk.css.map",
     "static/js/2.c0f7b1a1.chunk.js.LICENSE.txt": "./static/js/2.c0f7b1a1.chunk.js.LICENSE.txt",
+    "static/media/R.e303a854.png": "./static/media/R.e303a854.png",
     "static/media/face.1f976d31.png": "./static/media/face.1f976d31.png",
     "static/media/instagran.e7f87187.png": "./static/media/instagran.e7f87187.png",
     "static/media/linkedln.6c924546.png": "./static/media/linkedln.6c924546.png",
@@ -24,6 +25,6 @@
     "static/css/2.383c0125.chunk.css",
     "static/js/2.c0f7b1a1.chunk.js",
     "static/css/main.299bbfb1.chunk.css",
-    "static/js/main.bdf925ac.chunk.js"
+    "static/js/main.dbdc46fa.chunk.js"
   ]
 }
