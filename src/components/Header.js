@@ -1,4 +1,8 @@
 import React from "react";
+import linkedln from "./img/linkedln1.png";
+import instagran from "./img/instagran1.png";
+import face from "./img/face1.png";
+import img1 from "./img/rangel-1.png";
 
 const Header = () => {
     return (
@@ -8,13 +12,13 @@ const Header = () => {
             <p>Olá me chamo Rangel Andrade, sou graduado em computação <br/> 
             e Informática pelo Instituto Federal da Paraíba (IFPB).</p>
 
-            <a href="https://www.linkedin.com/in/rangel-andrade/"><img className="linkedln" src="/linkedln.png" /></a>
-            <a href="https://www.instagram.com/andraderangel/"><img className="instagran" src="/instagran.png" /></a>
-            <a href="https://www.facebook.com/rangel.andrade.127"><img className="face" src="/face.png" /></a>
+            <a href="https://www.linkedin.com/in/rangel-andrade/"><img className="linkedln1" src={ linkedln } /></a>
+            <a href="https://www.instagram.com/andraderangel/"><img className="instagran1" src={ instagran } /></a>
+            <a href="https://www.facebook.com/rangel.andrade.127"><img className="face1" src={ face } /></a>
 
            
             <div className="img1">
-            <img src="/rangel-1.png" />
+            <img src={ img1 } />
             </div>
             
         </div>
